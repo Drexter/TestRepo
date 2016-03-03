@@ -11,6 +11,7 @@
     <span>Hotfix 2</span>
     <span>Feature</span>
     <span>Feature2</span>
+    <span>Feature2</span>
 
     <div class="jumbotron">
         <h1>ASP.NET</h1>
