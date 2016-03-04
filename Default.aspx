@@ -14,6 +14,7 @@
     <span>Feature2</span>
     <span>Default</span>
     <span>RESETALL</span>
+    <span>Branch</span>
 
 
     <div class="jumbotron">
