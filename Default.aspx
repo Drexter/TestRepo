@@ -13,6 +13,8 @@
     <span>Feature2</span>
     <span>Feature2</span>
     <span>Default</span>
+    <span>RESETALL</span>
+
 
     <div class="jumbotron">
         <h1>ASP.NET</h1>
